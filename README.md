@@ -4,7 +4,7 @@
 **_Objetivo da Análise_**: Foi criada a automação em Python utilizando a biblioteca generativa do Gemini versão 1.0 pro, e como parâmetro através do prompt foram solicitados os tipos de estudos com células tronco realizados no Brasil no ano de 2023 e também foi solicitado ao modelo de IA, o percentual no avanço das pesquisas por cada tipo de estudo. Com o objetivo de obtermos quais os tipos de pesquisa que contemplavam maior e menor (%) percentual de avanço.
 
 **_Benefícios Esperados_**: Podermos por amostragem comparativa, mapearmos os demais estudos com baixo (%) percentual de avanço nas pesquisas, de forma que com este insight
-seja possível informar aos órgãos Públicos como: A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), e o Ministério da Ciência, Tecnologia e Inovações (MCTI) que oferecem apoio financeiro para projetos de pesquisa nessa área, uma atenção a estes tipos de pesquisa e financiem mais verbas para alavancarem essas pesquisas.
+seja possível informar aos órgãos Públicos como: A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), e o Ministério da Ciência, Tecnologia e Inovações (MCTI) que oferecem apoio financeiro para projetos de pesquisa nessa área, uma atenção a estes tipos de pesquisa e assim, financiem mais verbas para alavancarem essas pesquisas.
 
 **_Escopo da Automação_**:
 
