@@ -35,5 +35,5 @@ seja possível informar aos órgãos Públicos como: A Coordenação de Aperfei�
 **Total** | | **100%** |
 
 **4. Link de Acesso ao Código da Automação:**
-     <a href="//github.com/marcelosi10/Desafio_IA_Google_Gemini/blob/main/PesquisaCelulasTronco.ipynb"><img align="center" width="70" height="50" 
+     <a href="//github.com/marcelosi10/PesquisasCelulasTronco/blob/main/PesquisaCelulasTronco.ipynb"><img align="center" width="70" height="50" 
      src="https://github.com/marcelosi10/imagens/blob/main/PesquisaCientifica.jpeg"></a>
