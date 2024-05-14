@@ -1,4 +1,4 @@
-# _Pesquisas em Células Tronco_  <img align="left" width="100" height="100" src="https://github.com/marcelosi10/imagens/blob/main/CelulasTronco.jpeg">
+# _Pesquisas em Células Tronco_  <img align="left" width="90" height="70" src="https://github.com/marcelosi10/imagens/blob/main/CelulasTronco.jpeg">
 <img align="right" width="100" height="50" src="https://github.com/marcelosi10/imagens/blob/main/ColabPython.jpg">
 
 **_Objetivo da Análise_**: Foi criada a automação em Python utilizando a biblioteca generativa do Gemini versão 1.0 pro, e como parâmetro através do prompt foram solicitados os tipos de estudos com células tronco realizados no Brasil no ano de 2023 e também foi solicitado ao modelo de IA, o percentual no avanço das pesquisas por cada tipo de estudo. Com o objetivo de obtermos quais os tipos de pesquisa que contemplavam maior e menor (%) percentual de avanço.
@@ -33,3 +33,7 @@ seja possível informar aos órgãos Públicos como: A Coordenação de Aperfei�
 | **Regulamentação e Ética** | Estabelecimento de diretrizes éticas e regulatórias para o uso de células tronco | 10 % |
 
 **Total** | | **100%** |
+
+**4. Link de Acesso ao Código da Automação:**
+     <a href="//github.com/marcelosi10/Desafio_IA_Google_Gemini/blob/main/PesquisaCelulasTronco.ipynb"><img align="center" width="70" height="50" 
+     src="https://github.com/marcelosi10/imagens/blob/main/PesquisaCientifica.jpeg"></a>
